@@ -1,0 +1,15 @@
+#Something New
+
+This is a brand new document with some additional lines of code to be included
+
+Let A=1
+Let B=11
+Let C= A+B
+PRINT C
+END
+
+# Conclusion
+
+This program is now ready to be committed & Synced
+
+# End of Program
