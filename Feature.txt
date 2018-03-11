@@ -5,3 +5,6 @@ We are leraning how to test Merge & REbasing the code in Github.
 Making some changes to the Feature.txt within the master branch to validate how it will impact the merge and changes on the feature branch.
 
 # this will be commit on the master branch
+
+We are moking some changes to the original feature.txt to valiadte the rebaseling the changes .
+This will help us making these changes consistent with the master branch in github through Rebaselining.
